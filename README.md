@@ -3,6 +3,7 @@ This repository contains Flip Chip module test data sheets and related test vect
 <br>•	G020 Sense Amp
 <br>•	G228 Inhibit Driver
 <br>•	G624 Resistor Board test procedure (no vector files required for this test)
+<br>•	M160 Gate Module (fixes bad vector in original M160 test file)
 <br>•	M452 Variable Clock
 <br>•	M700 Manual Timing Generator
 <br><br>
